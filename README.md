@@ -34,7 +34,7 @@ A médica preenche os dados, visualiza o resultado em tempo real e imprime com u
 
 ## 🖥️ Demo
 
-🔗 **[https://inaciooow.github.io/receituario-digital-ubs/](https://inaciooow.github.io/receituario-digital/)**
+🔗 **[https://inaciooow.github.io/receituario-digital-ubs/](https://jorgeinacioo.github.io/receituario-digital/)**
 
 ---
 
